@@ -1,4 +1,4 @@
 -cp src
 -main Main
--neko Main.n
--cmd neko Main.n
+-neko bin/Main.n
+-cmd neko bin/Main.n
